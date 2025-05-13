@@ -135,9 +135,3 @@ When a user uploads an image, the app will display the predicted waste class lik
 
 ---
 
-## 👩‍💻 Author
-
-**Your Name**  
-Master's Student, [Your University]  
-Email: your-email@example.com  
-GitHub: [your-username](https://github.com/your-username)
