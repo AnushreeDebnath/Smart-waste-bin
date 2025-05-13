@@ -86,6 +86,8 @@ python train_model.py
 
 ### 5. Run the Streamlit App
 ```bash
+python -m pip install streamlit
+
 streamlit run app/main.py
 ```
 
